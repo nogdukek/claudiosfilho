@@ -12,7 +12,7 @@ Desenvolvo projetos envolvendo cheats, inteligência artificial, engenharia reve
 
 <p align="center">
 <sub>
-Ciência da Computação • Desenvolvedor Full Stack • C++ • Go • Rust
+Ciência da Computação • Full Stack • Engenharia Reversa • Inteligência Artificial
 </sub>
 </p>
 
@@ -22,7 +22,7 @@ Ciência da Computação • Desenvolvedor Full Stack • C++ • Go • Rust
 
 Sou estudante de **Ciência da Computação** e gosto de aprender colocando a mão na massa.
 
-Grande parte dos meus projetos envolve desenvolvimento de cheats, engenharia reversa, inteligência artificial, aplicações desktop e desenvolvimento full stack. Também gosto de explorar novas tecnologias, testar ideias e entender como os sistemas funcionam por trás dos bastidores.
+A maior parte dos meus projetos envolve desenvolvimento de cheats, engenharia reversa, inteligência artificial, aplicações desktop e desenvolvimento full stack. Estou sempre estudando novas tecnologias e buscando entender como os sistemas realmente funcionam.
 
 ---
 
@@ -36,7 +36,7 @@ Grande parte dos meus projetos envolve desenvolvimento de cheats, engenharia rev
 - Desenvolvimento Desktop
 - Levantamento de Requisitos
 - Arquitetura de Software
-- Cloud Computing
+- Arduino
 
 ---
 
@@ -45,13 +45,13 @@ Grande parte dos meus projetos envolve desenvolvimento de cheats, engenharia rev
 ### Linguagens
 
 <p align="center">
-  <img height="34" src="https://skillicons.dev/icons?i=cpp,c,go,rust,ts,js,nodejs,react,php,python,mysql" />
+  <img height="34" src="https://skillicons.dev/icons?i=cpp,c,go,rust,ts,js,nodejs,php,python,mysql" />
 </p>
 
 ### Frameworks & Tecnologias
 
 <p align="center">
-  <img height="34" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,express,docker,redis,git,github,linux" />
+  <img height="34" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,docker,redis,git,github,linux" />
 </p>
 
 ### Ferramentas
@@ -63,64 +63,57 @@ Grande parte dos meus projetos envolve desenvolvimento de cheats, engenharia rev
 - Postman
 - ImGui
 - CMake
-- GORM
-- GitHub Actions
+- Git
+- GitHub
+- Docker
 
 ---
 
-## Projetos
-
-### Xitus
-
-Plataforma voltada ao desenvolvimento de software, ferramentas desktop e projetos para a comunidade gamer.
-
-### Launcher
-
-Cliente desktop inspirado no Riot Client, responsável por autenticação, atualizações e gerenciamento de versões.
-
-### Inteligência Artificial
-
-Projetos voltados à automação, integração com modelos de IA e ferramentas para aumentar produtividade.
-
-### Engenharia Reversa
-
-Estudos e projetos focados em análise de software, Windows Internals e desenvolvimento low-level.
-
----
-
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nogdukek&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogdukek&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Atualmente
+## No Momento
 
 ```rust
-struct Claudio {
-    foco: Vec<&'static str>,
+struct Eu {
+    nome: &'static str,
+
+    curso: &'static str,
+
+    cheat: bool,
+    aimbot: bool,
+    arduino: bool,
+    cafe: bool,
+
     estudando: Vec<&'static str>,
+
+    linguagens: Vec<&'static str>,
 }
 
 fn main() {
-    let eu = Claudio {
-        foco: vec![
-            "Cheat Development",
-            "Artificial Intelligence",
-            "Reverse Engineering",
-            "Frontend",
-            "Backend",
-        ],
+
+    let eu = Eu {
+
+        nome: "Claudio Soares",
+
+        curso: "Ciência da Computação",
+
+        cheat: true,
+        aimbot: true,
+        arduino: true,
+        cafe: false,
 
         estudando: vec![
+            "Inteligência Artificial",
+            "Engenharia Reversa",
             "Rust",
-            "Go",
-            "C++",
+            "Windows Internals",
             "Arquitetura de Software",
-            "Cloud Computing",
+        ],
+
+        linguagens: vec![
+            "C++",
+            "Go",
+            "Rust",
+            "TypeScript",
+            "JavaScript",
         ],
     };
 }
@@ -133,5 +126,4 @@ fn main() {
 | Plataforma | Contato |
 |------------|---------|
 | LinkedIn | https://linkedin.com/in/claudiomadruga |
-| Xitus | https://xitus.gg |
-| Discord | @noguinho |
+| Discord | **@noguinho** |
